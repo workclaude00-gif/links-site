@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://linksimmigration.com/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://linksimmigration.com/services.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://linksimmigration.com/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://linksimmigration.com/contact.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://linksimmigration.com/index-ur.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://linksimmigration.com/services-ur.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://linksimmigration.com/about-ur.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://linksimmigration.com/contact-ur.html</loc>
+    <priority>0.6</priority>
+  </url>
+</urlset>
